@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+*.swp
+200*/
+400*/
+increasing*/
+file.txt
+old.conf
+testfiles/
